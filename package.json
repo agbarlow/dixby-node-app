@@ -1,0 +1,23 @@
+{
+  "name": "dixby-node-app",
+  "version": "1.0.0",
+  "description": "Homework WK 10",
+  "main": "dixby.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agbarlow/dixby-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agbarlow/dixby-node-app/issues"
+  },
+  "homepage": "https://github.com/agbarlow/dixby-node-app#readme",
+  "dependencies": {
+    "spotify": "^0.3.0"
+  }
+}
